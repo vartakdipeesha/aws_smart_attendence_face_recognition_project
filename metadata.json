@@ -1,0 +1,7 @@
+{
+  "name": "AWS CAPSTONE1",
+  "description": "A cloud-based, serverless attendance automation system that uses facial recognition and real-time dashboards to manage attendance for students and faculty.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
