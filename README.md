@@ -10,8 +10,7 @@ This project is a cloud-based automated attendance system built using AWS server
 - DynamoDB
 - Streamlit
 
-## Architecture
-![image](https://github.com/user-attachments/assets/6f0ed2eb-90fa-49b7-8bff-ee7eccb04214)
+
 
 
 ## Features
