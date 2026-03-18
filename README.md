@@ -10,12 +10,6 @@ This project is a cloud-based automated attendance system built using AWS server
 - DynamoDB
 - Streamlit
 
-## Features
-- Contactless attendance system
-- Real-time face recognition
-- Automated entry and exit tracking using even-odd logic
-- Serverless and scalable architecture
-- Secure and tamper-proof data storage
 
 ## Workflow
 ![image](https://github.com/user-attachments/assets/fce2c1e4-8277-4797-9b83-786f8abc93c6)
