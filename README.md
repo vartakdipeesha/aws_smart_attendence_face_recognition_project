@@ -1,4 +1,4 @@
-# AWS Smart Attendance System (Face Recognition)
+# SMART CAMPUS ATTENDANCE SYSTEM USING AWS FACIAL RECOGNITION 
 
 ## Overview
 This project is a cloud-based automated attendance system built using AWS serverless services. It uses facial recognition to mark attendance in real time and eliminates the need for manual or hardware-based systems.
